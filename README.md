@@ -97,7 +97,11 @@ response = client.chat.completions.create(
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first
+
+## Hosted OpenAI-Compatible Gateways
+
+- [APIClaw](https://apiclaw.biz) - Flat-rate access to Claude, GPT, Kimi, Qwen, DeepSeek, and GLM through an OpenAI-compatible API; plans from $19/mo, with 50 free trial requests..
 
 ## License
 
